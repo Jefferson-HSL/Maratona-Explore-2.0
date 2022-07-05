@@ -8,7 +8,7 @@ Esse é minha versão do site Link Tree.
 
 ## Screenshots
 
-![Website Screenshot](https://github.com/Jefferson-HSL/Link-tree/blob/master/image/website-Image.png)
+![Website Screenshot](https://github.com/Jefferson-HSL/Link-tree/blob/master/image/website-Image.jpg)
 
 ## Documentação de cores
 
