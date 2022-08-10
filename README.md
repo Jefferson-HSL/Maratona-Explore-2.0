@@ -1,9 +1,9 @@
 ![Logo](https://github.com/Jefferson-HSL/Link-tree/blob/master/image/logo.png)
 
 
-# Link Tree
+# Maratona Explore 2.0
 
-Esse é minha versão do site Link Tree. 
+Esse é minha versão do site Link Tree desenvolvida através da Maratona Explore 2.0 da Rocketseat. 
 
 
 ## Screenshots
